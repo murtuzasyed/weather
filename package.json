@@ -1,7 +1,7 @@
 {
-  "name": "react-boilerplate",
+  "name": "weather",
   "version": "0.1.0",
-  "description": "React app that contains boilerplate code with common standard configurations used in react app development",
+  "description": "React app to show weather data using standard apis",
   "main": "index.js",
   "scripts": {
     "build": "webpack --config ./webpack.config.prod.js",
